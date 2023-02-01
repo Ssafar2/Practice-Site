@@ -1,0 +1,117 @@
+.navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#headMenu a {
+    color: white;
+}
+
+.gg {
+    margin-top: 100px;
+}
+
+@media(max-width:768px) {
+
+
+    #headMenu li:hover {
+        background-color: white;
+
+    }
+
+    #headMenu a:hover {
+        color: black;
+    }
+
+}
+
+#headMenu a:hover {
+    color: black;
+}
+
+#navbarNav {
+    font-family: 'Montagu Slab', serif;
+    font-size: 15px;
+}
+
+
+/*Section1*/
+
+.section1Link {
+    color: black;
+}
+
+.section1Link:hover {
+    color: red;
+}
+
+.section1Info {
+    text-align: justify;
+}
+
+.lessonImg {
+    width: 331px;
+    height: 233.71px;
+}
+
+/*Footer*/
+.footerRow p {
+    font-size: 14px;
+}
+
+/*Java Section3*/
+
+.section3Java {
+    text-align: justify;
+    font-family: 'Montagu Slab', serif;
+    font-size: 14px;
+}
+
+.javaExplane {
+    font-family: 'Montagu Slab', serif;
+
+}
+
+.javaHead {
+    font-family: 'Montagu Slab', serif;
+
+}
+
+.javaCom {
+    font-size: 14px;
+}
+
+.javaAccor p {
+    font-size: 15px;
+    font-family: 'Montagu Slab', serif;
+}
+
+/*C# Section*/
+
+.csharpImg {
+    width: 275px;
+    height: 183px;
+}
+
+/*SQL*/
+
+.sqlHead {
+    width: 275px;
+    height: 183px;
+}
+
+/*About*/
+.aboutPar {
+    text-align: justify;
+}
+
+@media(min-width:992px) {
+    .carousel-item {
+        height: 500px;
+    }
+}
+
+.daire{
+    width: 20px !important;
+    height: 20px !important;
+    border-radius: 100% !important;
+}
